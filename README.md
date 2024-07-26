@@ -1,8 +1,13 @@
-<h1 align="center"> Hello there 👋, welcome to my Github Profile!</h1>
+<div style="width: 100%;">
+  <img src="welcome.svg" style="width: 100%;" alt="Introduction">
+</div>
+
+
+<!--<h1 align="center"> Hello there 👋, welcome to my Github Profile!</h1>
 
 ### I'm Peter, a Junior Front-End Developer &nbsp; 🐣<sup>_`"hi"`_</sup>
 <br>
-
+-->
 <!--
 **Dharkaron/Dharkaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
